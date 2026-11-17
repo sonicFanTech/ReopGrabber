@@ -1,0 +1,30 @@
+#include <windows.h>
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+ FILEFLAGS 0x0L
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+ FILESUBTYPE VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "SHAPELESS GOAT STUDIOS\0"
+            VALUE "FileDescription", "ReopGrabber - GitHub Repository Monitor\0"
+            VALUE "FileVersion", "1.0\0"
+            VALUE "InternalName", "ReopGrabber\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 SHAPELESS GOAT STUDIOS. All rights reserved.\0"
+            VALUE "OriginalFilename", "ReopGrabber.exe\0"
+            VALUE "ProductName", "ReopGrabber\0"
+            VALUE "ProductVersion", "1.0\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1200
+    END
+END
