@@ -69,4 +69,4 @@ ReopGrabber is free and open-source software licensed under the **GNU General Pu
 
 ---
 
-Copyright (C) 2026 **SHAPELESS GOAT STUDIOS**.
+Copyright (C) 2026 **sonic Fan Tech**.
