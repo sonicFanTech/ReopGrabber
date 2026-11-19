@@ -1,4 +1,4 @@
-# ReopGrabber
+# Repo Grabber
 
 **ReopGrabber** is a lightweight Windows console utility that monitors public GitHub repositories and downloads updated repository snapshots automatically.
 
